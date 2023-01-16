@@ -1,0 +1,46 @@
+div.q {
+  background-color: #52796F;
+}
+div.w {
+  background-color: #415C5B;
+}
+div.e {
+  background-color: #2F3E46;
+}
+div {
+  padding: 10px;
+  margin: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-radius: 30px;
+  border-color: #CAD2C5;
+}
+
+li {
+  background-color: #415C5B;
+  display: inline-block;
+  text-align: center;
+  border-style: solid;
+  border-radius: 30px;
+  border-color: #CAD2C5;
+  padding: 10px;
+}
+li:hover {
+  background-color: #2F3E46;
+}
+li.chosen {
+  background-color: #2F3E46;
+  border-radius: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+a {
+  color: #CAD2C5
+}
+
+body {
+  background-color: #84A98C;
+  color: #CAD2C5
+}
