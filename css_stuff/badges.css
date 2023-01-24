@@ -32,8 +32,8 @@ li:hover {
 li.chosen {
   background-color: #2F3E46;
   border-radius: 30px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 
 a {
@@ -42,7 +42,8 @@ a {
 
 body {
   background-color: #84A98C;
-  color: #CAD2C5
+  color: #CAD2C5;
+  font-family: Courier;
 }
 
 div.w {
