@@ -35,6 +35,9 @@ li.chosen {
   padding-top: 6px;
   padding-bottom: 6px;
 }
+ul {
+  margin-left: 10px;
+}
 
 a {
   color: #CAD2C5
