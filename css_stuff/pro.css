@@ -15,6 +15,7 @@ div {
   border-style: solid;
   border-radius: 30px;
   border-color: #CAD2C5;
+  display: flow-root;
 }
 
 li {
@@ -62,10 +63,16 @@ img {
   border-style: solid;
   border-radius: 20px;
   border-color: #CAD2C5;
+  width: 200px;
+  float:right;
 }
 
 iframe {
   border-style: solid;
   border-radius: 20px;
   border-color: #CAD2C5;
+  flex-grow: 1;
+  margin: 2px;
+  padding: 0;
+  float: right;
 }
